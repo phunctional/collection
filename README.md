@@ -1,2 +1,2 @@
 # collection
-Functional collection lobrary
+Functional collection library
